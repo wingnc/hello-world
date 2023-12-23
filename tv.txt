@@ -1,0 +1,131 @@
+港澳台
+翡翠台 1,http://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台 2,http://sc2022.stream-link.org/tv2306.php?id=h02
+無綫新聞台 1,http://sc2022.stream-link.org/tv2306.php?id=h04
+無綫新聞台 2,http://sc2022.stream-link.org/tv2306.php?id=h06
+TVBS新闻台 1,http://fastnas.ddnsfree.com:8585/live.m3u8?c=1
+TVBS新闻台 2,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS HD,http://fastnas.ddnsfree.com:8585/live.m3u8?c=2
+東森娱乐台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=3
+中天新闻 1,http://fastnas.ddnsfree.com:8585/live.m3u8?c=4
+中天新闻 2,http://tv.redrainl.site:9500/live.m3u8?c=03
+台視新聞,http://fastnas.ddnsfree.com:8585/live.m3u8?c=5
+華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
+中视新闻 1,http://tv.redrainl.site:9500/live.m3u8?c=02
+中視新聞 2,http://fastnas.ddnsfree.com:8585/live.m3u8?c=6
+寰宇新聞 1,http://fastnas.ddnsfree.com:8585/live.m3u8?c=7
+寰宇新闻 2,http://tv.redrainl.site:9500/live.m3u8?c=22
+凤凰资讯 1,http://fastnas.ddnsfree.com:8585/live.m3u8?c=8
+凤凰资讯 2,http://103.112.191.9:880/LAOSAT1068.m3u8
+凤凰中文,http://103.112.191.9:880/LAOSAT1015.m3u8
+東森新聞,http://fastnas.ddnsfree.com:8585/live.m3u8?c=11
+东森财经新闻 1,http://fastnas.ddnsfree.com:8585/live.m3u8?c=12
+东森财经新闻 2,http://tv.redrainl.site:9500/live.m3u8?c=55
+镜新闻 1,http://fastnas.ddnsfree.com:8585/live.m3u8?c=13
+镜新闻 2,http://tv.redrainl.site:9500/live.m3u8?c=28
+民视新闻 1,http://fastnas.ddnsfree.com:8585/live.m3u8?c=14
+民视新闻 2,http://tv.redrainl.site:9500/live.m3u8?c=01
+台视新闻 1,http://tv.redrainl.site:9500/live.m3u8?c=11
+台视新闻 2,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台湾PLUS,http://fastnas.ddnsfree.com:8585/live.m3u8?c=15
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS NEWS,http://fastnas.ddnsfree.com:8585/live.m3u8?c=16
+新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+海外新闻
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+ABC News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+AlJazeera,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+NBC News Now,https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+Pluto News,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+Fox Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+France 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+Cheddar News,https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+BBC,http://sc2022.stream-link.org/tv2306.php?id=e05
+DW,http://sc2022.stream-link.org/tv2306.php?id=e08
+Sky News,http://sc2022.stream-link.org/tv2306.php?id=e16
+
+海外纪录片频道
+Bloomberg Quicktake,https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+NHK world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+CGTN Documentary,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+Magellan TV Now,https://magellantv-1-us.samsung.wurl.tv/playlist.m3u8
+Time Line,https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
+Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+Pluto TV History,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
+
+央视CCTV
+CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV4,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV4K,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV8,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV9,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV10,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV11,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV12,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV13,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV14,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+CCTV世界地理,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV兵器科技,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
+CCTV怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV第一剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV风云剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV风云音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV1 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV3 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5+ 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV5 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV6 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17 备,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
+地方卫视
+东南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+东方卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+北京卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+四川卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+安徽卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+山东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+广东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+广西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+江苏卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+江西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+河北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+河南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+浙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+海南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+深圳卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+湖北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+贵州卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+辽宁卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+重庆卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+黑龙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
